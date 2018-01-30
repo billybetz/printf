@@ -1,2 +1,2 @@
-# printf
-Reproduction de la commande printf du systeme unix en c.
+# B-Shell
+Unix command interpretor based on bourne Shell
